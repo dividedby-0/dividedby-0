@@ -45,20 +45,44 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67%20Thousand%20lines%20of%20code-blue)
 
-> 🏆 101 Contributions in the Year 2022
- > 
-> 📦 743 Bytes Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    24 commits     █████████████░░░░░░░░░░░░   54.55% 
+🌃 Evening    20 commits     ███████████░░░░░░░░░░░░░░   45.45% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       18 commits     ██████████░░░░░░░░░░░░░░░   40.91% 
+Tuesday      5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
+Wednesday    12 commits     ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+Thursday     4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Friday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27% 
+Sunday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               3 mins              ██████████████████████░░░   88.47% 
+HTML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   7.8% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1% 
+EJS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -69,10 +93,6 @@ Java                     1 repo              ███░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/dividedby-0/dividedby-0/main/charts/bar_graph.png) 
-
-
- Last Updated on 07/11/2022 17:37:38 UTC
+ Last Updated on 07/11/2022 18:00:51 UTC
 <!--END_SECTION:waka-->

@@ -45,4 +45,34 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 101 Contributions in the Year 2022
+ > 
+> 📦 743 Bytes Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               4 repos             ██████████████░░░░░░░░░░░   57.14% 
+HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/dividedby-0/dividedby-0/main/charts/bar_graph.png) 
+
+
+ Last Updated on 07/11/2022 17:37:38 UTC
 <!--END_SECTION:waka-->

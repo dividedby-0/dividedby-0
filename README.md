@@ -1,4 +1,7 @@
-## 🛠️ Favourite tools
+<h1 align="center">Ciao 👋, I'm Alessandro</h1>
+<h3 align="center">A junior web developer from Italy</h3>
+
+## 🛠️ Tech I work with
 
 ### 👨‍💻 Programming and markup languages
 
@@ -43,6 +46,8 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+## ☕ My coding habits
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)

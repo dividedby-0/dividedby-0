@@ -1,6 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=00FF00&background=33333300&width=435&lines=console.log('Hi%2C+I'm+Alessandro')" alt="Typing SVG" /></a>
-
-## 🛠️ My favorite tools
+## 🛠️ Favourite tools
 
 ### 👨‍💻 Programming and markup languages
 

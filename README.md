@@ -1,9 +1,8 @@
-<h1 align="center">Ciao 👋, I'm Alessandro</h1>
-<h3 align="center">A junior web developer from Italy</h3>
+<h2 align="center">Ciao, I'm Alessandro, a junior web developer from Italy </h2>
 
-## 🛠️ Tech I work with
+### 🛠️ Tech I work with
 
-### Programming and markup languages
+#### Programming and markup languages
 
 <p>
     <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></a>
@@ -15,7 +14,7 @@
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white"></a>
 </p>
 
-### Frameworks and libraries
+#### Frameworks and libraries
 
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"></a>
@@ -24,7 +23,7 @@
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white"></a>
 </p>
 
-### Databases and cloud hosting
+#### Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white"></a>
@@ -34,7 +33,7 @@
     <a href="#"><img alt="Apache" src ="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white"></a>
 </p>
 
-### Software and tools
+#### Software and tools
 
 <p>
     <a href="#"><img alt="Visual Studio code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"></a>
@@ -51,7 +50,7 @@
     <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"></a>
 </p>
 
-## 📚 Tech I'd like to learn
+### 📚 Tech I'd like to learn
 
 <p>
     <a href="#"><img alt="D3.js" src="https://img.shields.io/badge/D3.js-F9A03C.svg?style=for-the-badge&logo=d3dotjs&logoColor=white"></a>
@@ -62,7 +61,7 @@
     <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white"></a>
 </p>
 
-## 🕜 My coding habits
+### 🕜 My coding habits
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2020%20mins-blue)

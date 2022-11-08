@@ -1,5 +1,3 @@
-<h2 align="center">Ciao, I'm Alessandro, a junior web developer from Italy</h2>
-
 ### 🛠️ Tech I work with
 
 #### Programming and markup languages

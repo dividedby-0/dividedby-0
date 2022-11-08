@@ -1,4 +1,4 @@
-<h2 align="center">Ciao, I'm Alessandro, a junior web developer from Italy </h2>
+<h2 align="center">Ciao, I'm Alessandro, a junior web developer from Italy</h2>
 
 ### 🛠️ Tech I work with
 
@@ -61,7 +61,7 @@
     <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white"></a>
 </p>
 
-### 🕜 My coding habits
+### 🕜 My coding stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2020%20mins-blue)

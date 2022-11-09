@@ -61,7 +61,7 @@
     <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white"></a>
 </p>
 
-### 🕜 My coding stats (automatically generated based on coding activity)
+### 📈 My coding stats (automatically generated based on coding activity)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dividedby-0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 

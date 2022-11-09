@@ -1,6 +1,9 @@
-# Ciao, I'm Alessandro, and I'm a self-taught web craftsman with a passion for all things geek 👓
+# Ciao, I'm Alessandro
+
+I am a self-taught web craftsman with a passion for technology and [non-fiction books](https://www.goodreads.com/user/show/4365596-alessandro) 👓📚
 
 ### 🛠️ Tech I have worked with
+Here are a few things I've picked up along my learning journey.
 
 #### Programming and markup languages
 
@@ -51,6 +54,7 @@
 </p>
 
 ### 📚 Awesome tech I'd like to learn next
+Because school ends, but education doesn't.
 
 <p>
     <a href="#"><img alt="D3.js" src="https://img.shields.io/badge/D3.js-F9A03C.svg?style=for-the-badge&logo=d3dotjs&logoColor=white"></a>
@@ -61,7 +65,8 @@
     <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white"></a>
 </p>
 
-### 📈 My coding stats (automatically generated based on coding activity)
+### 📈 My coding stats
+Automatically generated based on coding activity.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dividedby-0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 

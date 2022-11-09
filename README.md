@@ -1,4 +1,6 @@
-### 🛠️ Tech I work with
+# Ciao, I'm Alessandro, and I'm a self-taught web craftsman with a passion for all things geek 👓
+
+### 🛠️ Tech I have worked with
 
 #### Programming and markup languages
 
@@ -48,7 +50,7 @@
     <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"></a>
 </p>
 
-### 📚 Tech I'd like to learn
+### 📚 Awesome tech I'd like to learn next
 
 <p>
     <a href="#"><img alt="D3.js" src="https://img.shields.io/badge/D3.js-F9A03C.svg?style=for-the-badge&logo=d3dotjs&logoColor=white"></a>
@@ -59,7 +61,9 @@
     <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white"></a>
 </p>
 
-### 🕜 My coding stats
+### 🕜 My coding stats (automatically generated based on coding activity)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dividedby-0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%208%20mins-blue)

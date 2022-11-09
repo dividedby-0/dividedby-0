@@ -53,7 +53,7 @@ Here are a few things I've picked up along my learning journey.
     <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"></a>
 </p>
 
-### 📚 Awesome tech I'd like to learn next
+### 📝 Awesome tech I'd like to learn next
 Because school ends, but education doesn't.
 
 <p>

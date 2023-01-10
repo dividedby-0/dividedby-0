@@ -106,7 +106,7 @@ Sunday       3 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 27 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -122,5 +122,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2023 18:41:48 UTC
+ Last Updated on 10/01/2023 18:43:24 UTC
 <!--END_SECTION:waka-->

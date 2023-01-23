@@ -76,7 +76,7 @@ Automatically generated based on coding activity.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dividedby-0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43%20Thousand%20lines%20of%20code-blue)
 
@@ -107,10 +107,10 @@ Sunday       3 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 hrs 12 mins       ██████████████░░░░░░░░░░░   58.19% 
-Java                     5 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   41.08% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49% 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+JavaScript               7 hrs 12 mins       █████████████░░░░░░░░░░░░   52.04% 
+Java                     6 hrs 33 mins       ███████████░░░░░░░░░░░░░░   47.3% 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44% 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 ```
 
@@ -126,5 +126,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/01/2023 18:40:07 UTC
+ Last Updated on 23/01/2023 18:41:33 UTC
 <!--END_SECTION:waka-->

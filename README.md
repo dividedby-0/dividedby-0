@@ -44,9 +44,13 @@ Here are a few things I've picked up along my learning journey.
 
 <p>
     <a href="#"><img alt="Visual Studio code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"></a>
+    <a href="#"><img alt="Jetbrains Webstorm" src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white"></a>
+    <a href="#"><img alt="Jetbrains IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"></a>
     <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/SonarLint-CB2029.svg?style=for-the-badge&logo=SonarLint&logoColor=white"></a>
+    <a href="#"><img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"></a>
     <a href="#"><img alt="NPM" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
+    <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white"></a>
     <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31.svg?style=for-the-badge&logo=OBS-Studio&logoColor=white"></a>

@@ -1,6 +1,6 @@
 # Ciao, I'm Alessandro
 
-I am a self-taught web craftsman with a passion for technology and [non-fiction books](https://www.goodreads.com/user/show/4365596-alessandro). 👓📚  
+I am a self-taught software craftsman with a passion for technology and [non-fiction books](https://www.goodreads.com/user/show/4365596-alessandro). 👓📚  
 
 I enjoy solving coding challenges and building algorithms on [Codewars](https://www.codewars.com/) — have a look at [my completed solutions](https://www.codewars.com/users/dividedby-0/completed_solutions) there.
 

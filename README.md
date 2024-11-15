@@ -5,6 +5,8 @@ I am a self-taught software craftsman with a passion for non-fiction books. 👓
 
 I enjoy solving coding challenges and building algorithms on [Codewars](https://www.codewars.com/) — have a look at [my completed solutions](https://www.codewars.com/users/dividedby-0/completed_solutions) there.
 
+**NOTE: If you don't see much going on on this profile, it's because I'm pushing commits and code to other (work-related) platforms**
+
 ## 🛠️ Tech I have worked with
 Here are a few things I've picked up along my journey.
 

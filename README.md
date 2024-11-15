@@ -1,3 +1,4 @@
+<!-- badge icons from simpleicons.org -->
 # 🖖🏻 Ciao, I'm Ale
 
 I am a self-taught software craftsman with a passion for non-fiction books. 👓

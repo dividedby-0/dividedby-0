@@ -58,6 +58,8 @@ Here are a few things I've picked up along my journey.
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white"></a>
     <a href="#"><img alt="Apache" src ="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white"></a>
     <a href="#"><img alt="Netlify" src ="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"></a>
+    <a href="#"><img alt="Railway" src ="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"></a>
+    <a href="#"><img alt="Vercel" src ="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ### IDEs and tools

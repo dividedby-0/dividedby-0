@@ -1,13 +1,13 @@
 <!-- badge icons from simpleicons.org -->
 # 🖖🏻 Ciao, I'm Ale
 
-I am a self-taught software craftsman with a passion for non-fiction books. 👓
+I am a software craftsman with a passion for non-fiction books. 👓
 
 I enjoy solving coding challenges and building algorithms on [Codewars](https://www.codewars.com/) — have a look at [my completed solutions](https://www.codewars.com/users/dividedby-0/completed_solutions) there.
 
 **NOTE: If you don't see much going on on this profile, it's because I'm pushing commits and code to other (work-related) platforms**
 
-## 🚀 Projects
+## 🚀 Ongoing projects
 - [In-demand Skills Tracker](https://github.com/dividedby-0/in-demand-skills-tracker-frontend) - (WIP) Helps visualize relevant tech skills in a given location/company with charts. Check both the [backend](https://github.com/dividedby-0/in-demand-skills-tracker-backend) and [frontend](https://github.com/dividedby-0/in-demand-skills-tracker-frontend)
 - [NodeBreaker](https://github.com/dividedby-0/game-nodebreaker) - (WIP) 3D browser-based puzzle game inspired by Rubik's cube and hacking minigames. Mostly to showcase vanilla JS knowledge
 

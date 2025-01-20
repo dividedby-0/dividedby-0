@@ -8,7 +8,8 @@ I enjoy solving coding challenges and building algorithms on [Codewars](https://
 **NOTE: If you don't see much going on on this profile, it's because I'm pushing commits and code to other (work-related) platforms**
 
 ## 🚀 Ongoing projects
-- [In-demand Skills Tracker](https://github.com/dividedby-0/in-demand-skills-tracker-frontend) - (WIP) Helps visualize relevant tech skills in a given location/company with charts. Check both the [backend](https://github.com/dividedby-0/in-demand-skills-tracker-backend) and [frontend](https://github.com/dividedby-0/in-demand-skills-tracker-frontend)
+- [ContrarianReads](https://github.com/dividedby-0/contrarian-reads-frontend) - (WIP) Community-driven book recommendation platform that fights confirmation bias by allowing users to recommend books with alternative viewpoints. Check out both the [backend](https://github.com/dividedby-0/contrarian-reads-backend) and [frontend](https://github.com/dividedby-0/contrarian-reads-frontend) repos
+- [In-demand Skills Tracker](https://github.com/dividedby-0/in-demand-skills-tracker-frontend) - (WIP) Helps visualize relevant tech skills in a given location/company with charts. Check out both the [backend](https://github.com/dividedby-0/in-demand-skills-tracker-backend) and [frontend](https://github.com/dividedby-0/in-demand-skills-tracker-frontend) repos
 - [NodeBreaker](https://github.com/dividedby-0/game-nodebreaker) - (WIP) 3D browser-based puzzle game inspired by Rubik's cube and hacking minigames. Mostly to showcase vanilla JS knowledge
 
 ## 🛠️ Tech I have worked with

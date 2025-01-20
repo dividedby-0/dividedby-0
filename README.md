@@ -8,8 +8,8 @@ I enjoy solving coding challenges and building algorithms on [Codewars](https://
 **NOTE: If you don't see much going on on this profile, it's because I'm pushing commits and code to other (work-related) platforms**
 
 ## 🚀 Projects
-- [In-demand Skills Tracker](https://github.com/dividedby-0/in-demand-skills-tracker-frontend) - Helps visualize relevant tech skills in a given location/company with charts
-- [NodeBreaker](https://github.com/dividedby-0/game-nodebreaker) - 3D browser-based puzzle game inspired by hacking minigames
+- [In-demand Skills Tracker](https://github.com/dividedby-0/in-demand-skills-tracker-frontend) - (WIP) Helps visualize relevant tech skills in a given location/company with charts
+- [NodeBreaker](https://github.com/dividedby-0/game-nodebreaker) - (WIP) 3D browser-based puzzle game inspired by Rubik's cube and hacking minigames
 
 ## 🛠️ Tech I have worked with
 Here are a few things I've picked up along my journey.

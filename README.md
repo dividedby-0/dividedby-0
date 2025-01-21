@@ -63,7 +63,7 @@ Here are a few things I've picked up along my journey.
     <a href="#"><img alt="Vercel" src ="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
-### IDEs and tools
+### IDEs and favourite tools
 <p>
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-7151a8.svg?style=for-the-badge&logo=vscodium&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=vscodium&logoColor=white"></a>

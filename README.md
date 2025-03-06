@@ -1,9 +1,9 @@
 <!-- badge icons from simpleicons.org -->
-# 🖖🏻 Ciao, I'm Ale
+# Hi, I'm Alessandro
 
 I'm a versatile developer with a background in both front-end and back-end development.
 
-**NOTE: If you don't see much going on on this profile, it's because I'm pushing commits and code to other (work-related) platforms.**
+Please note: If activity on this profile appears limited, it's because I primarily contribute to other version control platforms for work-related projects.
 
 ## 🚀 Ongoing projects
 - [ContrarianReads](https://github.com/dividedby-0/contrarian-reads-frontend) - (WIP) Community-driven book recommendation platform that fights confirmation bias by allowing users to recommend books with alternative viewpoints. Check out both the [backend](https://github.com/dividedby-0/contrarian-reads-backend) and [frontend](https://github.com/dividedby-0/contrarian-reads-frontend) repos
@@ -11,7 +11,7 @@ I'm a versatile developer with a background in both front-end and back-end devel
 - [NodeBreaker](https://github.com/dividedby-0/game-nodebreaker) - (WIP) 3D browser-based puzzle game inspired by Rubik's cube and hacking minigames. Mostly to showcase vanilla JS knowledge
 
 ## 🛠️ Tech I have worked with
-Here are a few things I've picked up along my journey.
+Here are some key skills and insights I've gained throughout my journey.
 
 ### Programming and markup languages
 <p>

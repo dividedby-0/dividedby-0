@@ -1,11 +1,9 @@
 <!-- badge icons from simpleicons.org -->
 # 🖖🏻 Ciao, I'm Ale
 
-I am a software craftsman with a passion for non-fiction books. 👓
+I'm a versatile developer with a background in both front-end and back-end development.
 
-I enjoy solving coding challenges and building algorithms on [Codewars](https://www.codewars.com/) — have a look at [my completed solutions](https://www.codewars.com/users/dividedby-0/completed_solutions) there.
-
-**NOTE: If you don't see much going on on this profile, it's because I'm pushing commits and code to other (work-related) platforms**
+**NOTE: If you don't see much going on on this profile, it's because I'm pushing commits and code to other (work-related) platforms.**
 
 ## 🚀 Ongoing projects
 - [ContrarianReads](https://github.com/dividedby-0/contrarian-reads-frontend) - (WIP) Community-driven book recommendation platform that fights confirmation bias by allowing users to recommend books with alternative viewpoints. Check out both the [backend](https://github.com/dividedby-0/contrarian-reads-backend) and [frontend](https://github.com/dividedby-0/contrarian-reads-frontend) repos
@@ -100,6 +98,8 @@ Here are a few things I've picked up along my journey.
     <a href="#"><img alt="W3Schools" src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white"></a>
     <a href="#"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
 </p>
+
+I enjoy solving coding challenges and building algorithms on [Codewars](https://www.codewars.com/) — have a look at [my completed solutions](https://www.codewars.com/users/dividedby-0/completed_solutions) there.
 
 ## 📈 Insights on coding activity
 Automatically generated based on coding activity using [Wakatime](https://wakatime.com/) and GitHub Actions.

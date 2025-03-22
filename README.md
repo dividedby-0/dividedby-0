@@ -1,17 +1,12 @@
 <!-- badge icons from simpleicons.org -->
-# Hi, I'm Alessandro
-
-I'm a versatile developer with a background in both front-end and back-end development.
-
 Please note: If activity on this profile appears limited, it's because I primarily contribute to other version control platforms for work-related projects.
 
-## 🚀 Ongoing projects
+## 🚀 Personal projects
 - [ContrarianReads](https://github.com/dividedby-0/contrarian-reads-frontend) - (WIP) Community-driven book recommendation platform that fights confirmation bias by allowing users to recommend books with alternative viewpoints. Check out both the [backend](https://github.com/dividedby-0/contrarian-reads-backend) and [frontend](https://github.com/dividedby-0/contrarian-reads-frontend) repos
 - [In-demand Skills Tracker](https://github.com/dividedby-0/in-demand-skills-tracker-frontend) - (WIP) Built during a hackathon. Helps visualize relevant tech skills in a given location/company with charts. Check out both the [backend](https://github.com/dividedby-0/in-demand-skills-tracker-backend) and [frontend](https://github.com/dividedby-0/in-demand-skills-tracker-frontend) repos
 - [NodeBreaker](https://github.com/dividedby-0/game-nodebreaker) - (WIP) Built during a hackathon. 3D browser-based puzzle game inspired by Rubik's cube and Tetris. Mostly to showcase vanilla JS knowledge
 
 ## 🛠️ Tech I have worked with
-Here are some key skills and insights I've gained throughout my journey.
 
 ### Programming and markup languages
 <p>

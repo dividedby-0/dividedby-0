@@ -2,9 +2,41 @@
 Please note: If activity on this profile appears limited, it's because I primarily contribute to other version control platforms for work-related projects.
 
 ## 🚀 Personal projects
-- [ContrarianReads](https://github.com/dividedby-0/contrarian-reads-frontend) - (WIP) Community-driven book recommendation platform that fights confirmation bias by allowing users to recommend books with alternative viewpoints. Check out both the [backend](https://github.com/dividedby-0/contrarian-reads-backend) and [frontend](https://github.com/dividedby-0/contrarian-reads-frontend) repos
-- [In-demand Skills Tracker](https://github.com/dividedby-0/in-demand-skills-tracker-frontend) - (WIP) Built during a hackathon. Helps visualize relevant tech skills in a given location/company with charts. Check out both the [backend](https://github.com/dividedby-0/in-demand-skills-tracker-backend) and [frontend](https://github.com/dividedby-0/in-demand-skills-tracker-frontend) repos
-- [NodeBreaker](https://github.com/dividedby-0/game-nodebreaker) - (WIP) Built during a hackathon. 3D browser-based puzzle game inspired by Rubik's cube and Tetris. Mostly to showcase vanilla JS knowledge
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>ContrarianReads</strong></td>
+      <td>Community-driven book recommendation platform that fights confirmation bias by suggesting alternative viewpoints.</td>
+      <td><a href="https://github.com/dividedby-0/contrarian-reads-frontend">Frontend</a></td>
+      <td><a href="https://github.com/dividedby-0/contrarian-reads-backend">Backend</a></td>
+      <td>Angular, ASP.NET Core, MSSQL</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://vermillion-khapse-9e6bb3.netlify.app/">IDST - In-demand Skills Tracker</a></strong></td>
+      <td>Track and visualize relevant tech skills in a given location/company using charts.</td>
+      <td><a href="https://github.com/dividedby-0/in-demand-skills-tracker-frontend">Frontend</a></td>
+      <td><a href="https://github.com/dividedby-0/in-demand-skills-tracker-backend">Backend</a></td>
+      <td>Angular, Node.js, Express, D3.js, MongoDB</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://sage-snickerdoodle-468d70.netlify.app/">NodeBreaker</a></strong></td>
+      <td>3D browser-based puzzle game inspired by Rubik's Cube and Tetris.</td>
+      <td><a href="https://github.com/dividedby-0/game-nodebreaker">Frontend</a></td>
+      <td></td>
+      <td>HTML, CSS, Vanilla JS, Three.js</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🛠️ Tech I have worked with
 

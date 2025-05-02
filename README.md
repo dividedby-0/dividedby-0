@@ -134,8 +134,6 @@ Automatically generated based on coding activity using [Wakatime](https://wakati
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dividedby-0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C333%20hrs%2050%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-195.3%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -163,11 +161,11 @@ Sunday                   82 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      4 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.67 % 
-C#                       3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-JavaScript               3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
-HTML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+CSS                      5 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   38.14 % 
+JavaScript               3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+C#                       2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+HTML                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -183,5 +181,5 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2025 18:48:46 UTC
+ Last Updated on 02/05/2025 18:47:57 UTC
 <!--END_SECTION:waka-->

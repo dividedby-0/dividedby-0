@@ -92,6 +92,7 @@ Please note: If activity on this profile appears limited, it's because I primari
 ### IDEs and favourite tools
 <p>
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-7151a8.svg?style=for-the-badge&logo=vscodium&logoColor=white"></a>
+    <a href="#"><img alt="Jetbrains Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=vscodium&logoColor=white"></a>
     <a href="#"><img alt="Jetbrains Webstorm" src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white"></a>
     <a href="#"><img alt="Jetbrains IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"></a>

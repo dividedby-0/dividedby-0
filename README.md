@@ -16,21 +16,21 @@ Please note: If activity on this profile appears limited, it's because I primari
   <tbody>
     <tr>
       <td><strong>ContrarianReads</strong></td>
-      <td>Community-driven book recommendation platform that fights confirmation bias by suggesting alternative viewpoints.</td>
+      <td>Community-driven book recommendation platform that fights confirmation bias by suggesting books with alternative viewpoints.</td>
       <td><a href="https://github.com/dividedby-0/contrarian-reads-frontend">Frontend</a></td>
       <td><a href="https://github.com/dividedby-0/contrarian-reads-backend">Backend</a></td>
       <td>Angular, ASP.NET Core, MSSQL</td>
     </tr>
     <tr>
       <td><strong><a href="https://vermillion-khapse-9e6bb3.netlify.app/">IDST - In-demand Skills Tracker</a></strong></td>
-      <td>Track and visualize relevant tech skills in a given location/company using charts.</td>
+      <td>Track and visualize in-demand tech skills in a given geographical location or company using charts.</td>
       <td><a href="https://github.com/dividedby-0/in-demand-skills-tracker-frontend">Frontend</a></td>
       <td><a href="https://github.com/dividedby-0/in-demand-skills-tracker-backend">Backend</a></td>
       <td>Angular, Node.js, Express, D3.js, MongoDB</td>
     </tr>
     <tr>
       <td><strong><a href="https://sage-snickerdoodle-468d70.netlify.app/">NodeBreaker</a></strong></td>
-      <td>3D browser-based puzzle game inspired by Rubik's Cube and Tetris.</td>
+      <td>3D browser-based puzzle game inspired by Rubik's Cube, Tetris, and the "Hamiltonian path problem" in math.</td>
       <td><a href="https://github.com/dividedby-0/game-nodebreaker">Frontend</a></td>
       <td></td>
       <td>HTML, CSS, Vanilla JS, Three.js</td>

@@ -11,6 +11,7 @@ Please note: If activity on this profile appears limited, it's because I primari
       <th>Frontend</th>
       <th>Backend</th>
       <th>Technologies</th>
+      <th>Status</th>
     </tr>
   </thead>
   <tbody>
@@ -20,6 +21,7 @@ Please note: If activity on this profile appears limited, it's because I primari
       <td><a href="https://github.com/dividedby-0/contrarian-reads-frontend">Frontend</a></td>
       <td><a href="https://github.com/dividedby-0/contrarian-reads-backend">Backend</a></td>
       <td>Angular, ASP.NET Core, MSSQL</td>
+      <td>Railway trial expired. Looking for a new free hosting solution for the backend. Frontend deployed on Netlify</td>
     </tr>
     <tr>
       <td><strong><a href="https://vermillion-khapse-9e6bb3.netlify.app/">IDST - In-demand Skills Tracker</a></strong></td>
@@ -27,6 +29,7 @@ Please note: If activity on this profile appears limited, it's because I primari
       <td><a href="https://github.com/dividedby-0/in-demand-skills-tracker-frontend">Frontend</a></td>
       <td><a href="https://github.com/dividedby-0/in-demand-skills-tracker-backend">Backend</a></td>
       <td>Angular, Node.js, Express, D3.js, MongoDB</td>
+      <td>Railway trial expired. Looking for a new free hosting solution for the backend. Frontend deployed on Netlify</td>
     </tr>
     <tr>
       <td><strong><a href="https://sage-snickerdoodle-468d70.netlify.app/">NodeBreaker</a></strong></td>
@@ -34,6 +37,7 @@ Please note: If activity on this profile appears limited, it's because I primari
       <td><a href="https://github.com/dividedby-0/game-nodebreaker">Frontend</a></td>
       <td></td>
       <td>HTML, CSS, Vanilla JS, Three.js</td>
+      <td>Deployed on Netlify and fully functional</td>
     </tr>
   </tbody>
 </table>

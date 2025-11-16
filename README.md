@@ -139,8 +139,6 @@ Automatically generated based on coding activity using [Wakatime](https://wakati
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dividedby-0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C520%20hrs%2026%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-214.2%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -186,5 +184,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2025 18:46:56 UTC
+ Last Updated on 16/11/2025 18:47:14 UTC
 <!--END_SECTION:waka-->

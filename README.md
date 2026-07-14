@@ -6,7 +6,7 @@ Please note: If activity on this profile appears limited, it's because I primari
 <table>
   <thead>
     <tr>
-      <th>Project</th>
+      <th>Project<br>(click for live)</th>
       <th>Description</th>
       <th>Frontend</th>
       <th>Backend</th>
@@ -15,31 +15,37 @@ Please note: If activity on this profile appears limited, it's because I primari
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><strong>ContrarianReads</strong></td>
-      <td>Community-driven book recommendation platform that fights confirmation bias by suggesting books with alternative viewpoints.</td>
-      <td><a href="https://github.com/dividedby-0/contrarian-reads-frontend">Frontend</a></td>
-      <td><a href="https://github.com/dividedby-0/contrarian-reads-backend">Backend</a></td>
-      <td>Angular, ASP.NET Core, MSSQL</td>
-      <td>Railway trial expired. Looking for a new free hosting solution for the backend. Frontend deployed on Netlify</td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://vermillion-khapse-9e6bb3.netlify.app/">IDST - In-demand Skills Tracker</a></strong></td>
-      <td>Track and visualize in-demand tech skills in a given geographical location or company using charts.</td>
-      <td><a href="https://github.com/dividedby-0/in-demand-skills-tracker-frontend">Frontend</a></td>
-      <td><a href="https://github.com/dividedby-0/in-demand-skills-tracker-backend">Backend</a></td>
-      <td>Angular, Node.js, Express, D3.js, MongoDB</td>
-      <td>Railway trial expired. Looking for a new free hosting solution for the backend. Frontend deployed on Netlify</td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://sage-snickerdoodle-468d70.netlify.app/">NodeBreaker</a></strong></td>
-      <td>3D browser-based puzzle game inspired by Rubik's Cube, Tetris, and the "Hamiltonian path problem" in math.</td>
-      <td><a href="https://github.com/dividedby-0/game-nodebreaker">Frontend</a></td>
-      <td></td>
-      <td>HTML, CSS, Vanilla JS, Three.js</td>
-      <td>Deployed on Netlify and fully functional</td>
-    </tr>
-  </tbody>
+  <tr>
+    <td align="center"><strong>ContrarianReads</strong></td>
+    <td align="center">Community-driven book recommendation platform that fights confirmation bias</td>
+    <td align="center"><a href="https://github.com/dividedby-0/contrarian-reads-frontend">repo</a></td>
+    <td align="center"><a href="https://github.com/dividedby-0/contrarian-reads-backend">repo</a></td>
+    <td align="center">Angular, ASP.NET Core, MSSQL</td>
+    <td align="center">Looking for new BE hosting. FE deployed on Netlify</td>
+  </tr>
+
+  <tr>
+    <td align="center"><strong><a href="https://vermillion-khapse-9e6bb3.netlify.app/">IDST - In-demand Skills Tracker</a></strong></td>
+    <td align="center">Track and visualize in-demand tech skills using charts</td>
+    <td align="center"><a href="https://github.com/dividedby-0/in-demand-skills-tracker-frontend">repo</a></td>
+    <td align="center"><a href="https://github.com/dividedby-0/in-demand-skills-tracker-backend">repo</a></td>
+    <td align="center">Angular, Node.js, Express, D3.js, MongoDB</td>
+    <td align="center">Looking for new BE hosting. FE deployed on Netlify</td>
+  </tr>
+
+  <tr>
+    <td align="center"><strong><a href="https://sage-snickerdoodle-468d70.netlify.app/">NodeBreaker</a></strong></td>
+    <td align="center">3D browser-based puzzle game</td>
+    <td align="center"><a href="https://github.com/dividedby-0/game-nodebreaker">repo</a></td>
+    <td align="center"></td>
+    <td align="center">HTML, CSS, Vanilla JS, Three.js, Firebase</td>
+    <td align="center">
+      <a href="https://app.netlify.com/sites/sage-snickerdoodle-468d70/deploys">
+        <img src="https://api.netlify.com/api/v1/badges/8fcb2443-d677-478e-b208-0f37ea39f36b/deploy-status" alt="Netlify Status">
+      </a>
+    </td>
+  </tr>
+</tbody>
 </table>
 
 ## 🛠️ Tech I have worked with

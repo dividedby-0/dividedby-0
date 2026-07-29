@@ -145,25 +145,29 @@ Automatically generated based on coding activity using [Wakatime](https://wakati
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dividedby-0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C661%20hrs%2059%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2056%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-230.09%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                899 commits         ██████████░░░░░░░░░░░░░░░   38.58 % 
-🌆 Daytime                681 commits         ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-🌃 Evening                708 commits         ████████░░░░░░░░░░░░░░░░░   30.39 % 
+🌞 Morning                900 commits         ██████████░░░░░░░░░░░░░░░   38.59 % 
+🌆 Daytime                682 commits         ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+🌃 Evening                708 commits         ████████░░░░░░░░░░░░░░░░░   30.36 % 
 🌙 Night                  42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   354 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Tuesday                  445 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Wednesday                395 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Thursday                 356 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Friday                   299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Saturday                 257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Monday                   354 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Tuesday                  445 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Wednesday                397 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Thursday                 356 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Friday                   299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Saturday                 257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 Sunday                   224 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 ```
 
@@ -172,34 +176,30 @@ Sunday                   224 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 16 mins       ███████████████████████░░   90.15 % 
-HTML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JavaScript               21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 31 mins (99.97%)
+⏱ AI Coding Time: 13 mins (64.15%)
 
-✍️ 226 lines written by AI, 1 lines written by hand (99.56% AI-written)
+✍️ 2 lines written by AI, 4 lines written by hand (33.33% AI-written)
 
-🔤 313,003 Input Tokens, 19,402 Output Tokens
+🔤 324,197 Input Tokens, 1,162 Output Tokens
 
-💵 $1.32 Estimated AI Cost This Week
+💵 $1.08 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 37 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
-Deepseek                 445 lines           █████████████████████████   100.00 % 
+Deepseek                 160 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.56% of written lines came from AI
-📝 Concise Prompter — average 122 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 0.35% of changed lines were hand-edited
+⚖️ Balanced with AI — 33.33% of written lines came from AI
+📝 Concise Prompter — average 156 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 66.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -215,5 +215,5 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:01:56 UTC
+ Last Updated on 29/07/2026 19:53:13 UTC
 <!--END_SECTION:waka-->
